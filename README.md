@@ -44,5 +44,6 @@ La partie se termine lorsqu’il entre en collision avec un mur ou avec son prop
 # Illustration du jeu
 
 Voici une capture d’écran du jeu en cours d’exécution :
+![Capture du jeu Snake](GameplayScreen.jpeg)
 
 
